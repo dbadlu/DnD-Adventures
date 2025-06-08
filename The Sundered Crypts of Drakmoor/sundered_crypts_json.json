@@ -7,7 +7,7 @@
     "recommendedLevel": "1-2",
     "playerCount": "2",
     "themes": ["Ancient ruins", "undead mysteries", "draconic curses"],
-    "coverImageUrl": "PLACEHOLDER_COVER_URL",
+    "coverImageUrl": "https://raw.githubusercontent.com/dbadlu/DnD-Adventures/refs/heads/main/The%20Sundered%20Crypts%20of%20Drakmoor/The%20Sundered%20Crypts%20of%20Drakmoor.png",
     "introduction": {
       "text": "Three days ago, the mountain village of Thornwick fell silent. No smoke rises from chimneys, no travelers emerge from the valley pass. The last merchant to escape spoke of \"shadows that walk\" and \"the dead dragon's curse awakening.\"\n\nYou—an unlikely pair bound by circumstance—stand at the weathered stone bridge leading into Thornwick. Kaelith's skeletal companion Rictus rattles softly in anticipation, while Tharagon's bronze-scaled fist clenches around his greataxe. Whatever darkness has consumed this place, it ends today.",
       "mission": "Investigate Thornwick's silence and stop whatever ancient evil has awakened."
@@ -18,9 +18,9 @@
       "dracolichPrison": "Map Title: \"Vorthak's Prison Chamber (Underground Level 2)\"\nDimensions: 60 x 50 squares (300 x 250 feet)\nKey Features:\nP1: Sealed Door Entrance (10x5 massive stone portal)\nP2: Main Prison Chamber (40x40 cathedral-like space)\nP3: Central Dais (20x20 raised platform)\nP4: Villager Alcoves (8 separate 5x5 crystal cocoons)\nP5: Broken Chain Anchor Points (4 corners of main chamber)\nP6: Ritual Circle (15x15 carved into floor)\nP7: Hidden Treasure Vault (10x10 secret chamber)\nP8: Emergency Exit Tunnel (5x50 collapsed passage)\n\nTerrain: Grand worked stone with 40-foot vaulted ceiling, broken silver chains hanging from walls, crystalline formations, areas of magical darkness and light, raised platform in center with steps."
     },
     "mapImageUrls": {
-      "thornwickVillage": "PLACEHOLDER_MAP_THORNWICK_URL",
-      "sunderedHalls": "PLACEHOLDER_MAP_HALLS_URL", 
-      "dracolichPrison": "PLACEHOLDER_MAP_PRISON_URL"
+      "thornwickVillage": "https://github.com/dbadlu/DnD-Adventures/blob/main/The%20Sundered%20Crypts%20of%20Drakmoor/Maps/Thornwick%20Village%20Map_%20Surface%20Level.png?raw=true",
+      "sunderedHalls": "https://github.com/dbadlu/DnD-Adventures/blob/main/The%20Sundered%20Crypts%20of%20Drakmoor/Maps/The%20Sundered%20Halls_%20Dungeon%20Map.png?raw=true", 
+      "dracolichPrison": "https://github.com/dbadlu/DnD-Adventures/blob/main/The%20Sundered%20Crypts%20of%20Drakmoor/Maps/Vorthak's%20Prison%20Map_%20Sacred%20Chambers.png?raw=true"
     }
   },
   "monsters": {
@@ -53,7 +53,7 @@
           "description": "Melee attack +6 to hit, 1d4+4 cold damage, target slowed until end of next turn"
         }
       ],
-      "imageUrl": "PLACEHOLDER_SHADOW_SPRITE_URL",
+      "imageUrl": "https://github.com/dbadlu/DnD-Adventures/blob/main/The%20Sundered%20Crypts%20of%20Drakmoor/Monsters/Ethereal%20Sprite%20in%20Frost%20and%20Shadows.png?raw=true",
       "prompt": "Create a fantasy monster portrait based on the following description:\n\nShadow Sprite\nSmall fey, chaotic neutral\nA tiny humanoid figure wreathed in shadows and frost, with gossamer wings that shimmer between translucent and dark. Mischievous glowing eyes peer from a face that shifts between solid and ethereal.\n\nStyle: Hand-painted fantasy illustration, parchment background, Dungeons & Dragons bestiary style.\nLighting: Dramatic and moody.\nFormat: Centered monster, no text, no frame, no background elements except soft parchment texture.\nResolution: High detail."
     },
     "animatedSkeleton": {
@@ -88,7 +88,7 @@
           "description": "Ranged attack +4 to hit, range 80/320 ft., 1d6+2 piercing damage"
         }
       ],
-      "imageUrl": "PLACEHOLDER_SKELETON_URL",
+      "imageUrl": "https://github.com/dbadlu/DnD-Adventures/blob/main/The%20Sundered%20Crypts%20of%20Drakmoor/Monsters/Skeleton%20Warrior%20with%20Glowing%20Eyes.png?raw=true",
       "prompt": "Create a fantasy monster portrait based on the following description:\n\nAnimated Skeleton\nMedium undead, lawful evil\nA humanoid skeleton held together by dark magic, wearing tattered armor scraps. Empty eye sockets glow with malevolent red light. Clutches a rusty shortsword and has a quiver of arrows across its ribcage.\n\nStyle: Hand-painted fantasy illustration, parchment background, Dungeons & Dragons bestiary style.\nLighting: Dramatic and moody.\nFormat: Centered monster, no text, no frame, no background elements except soft parchment texture.\nResolution: High detail."
     },
     "koboldShaman": {
@@ -137,7 +137,7 @@
           "description": "The shaman casts one of its known spells"
         }
       ],
-      "imageUrl": "PLACEHOLDER_KOBOLD_URL",
+      "imageUrl": "https://github.com/dbadlu/DnD-Adventures/blob/main/The%20Sundered%20Crypts%20of%20Drakmoor/Monsters/Kobold%20Shaman's%20Wrathful%20Lightning.png?raw=true",
       "prompt": "Create a fantasy monster portrait based on the following description:\n\nCorrupted Kobold Shaman\nSmall humanoid (kobold), chaotic evil\nA small reptilian humanoid with dark scaled skin crackling with electrical energy. Wears primitive robes decorated with lightning symbols and bone trinkets. Eyes glow with corrupted draconic power, and sparks dance between its clawed fingers.\n\nStyle: Hand-painted fantasy illustration, parchment background, Dungeons & Dragons bestiary style.\nLighting: Dramatic and moody, with electrical highlights.\nFormat: Centered monster, no text, no frame, no background elements except soft parchment texture.\nResolution: High detail."
     },
     "vorthak": {
@@ -217,7 +217,7 @@
           "description": "Each creature within 60 feet must make a DC 15 Wisdom save or be frightened for 1 minute"
         }
       ],
-      "imageUrl": "PLACEHOLDER_VORTHAK_URL",
+      "imageUrl": "https://github.com/dbadlu/DnD-Adventures/blob/main/The%20Sundered%20Crypts%20of%20Drakmoor/Monsters/Necromantic%20Undead%20Dragon%20with%20Glowing%20Eyes.png?raw=true",
       "prompt": "Create a fantasy monster portrait based on the following description:\n\nVorthak the Eternal (Weakened Form)\nLarge undead, chaotic evil\nA skeletal dragon in the process of reforming, with bones held together by crackling dark energy. Tattered wing membranes stretch between bone spurs, and cold blue flames flicker in empty eye sockets. Ancient and terrible, but clearly not at full power.\n\nStyle: Hand-painted fantasy illustration, parchment background, Dungeons & Dragons bestiary style.\nLighting: Dramatic and moody, with supernatural blue-green lighting.\nFormat: Centered monster, no text, no frame, no background elements except soft parchment texture.\nResolution: High detail."
     },
     "corruptedVillager": {
@@ -247,7 +247,7 @@
           "description": "Melee attack +2 to hit, 1d4 bludgeoning damage"
         }
       ],
-      "imageUrl": "PLACEHOLDER_VILLAGER_URL",
+      "imageUrl": "https://github.com/dbadlu/DnD-Adventures/blob/main/The%20Sundered%20Crypts%20of%20Drakmoor/Monsters/Zombified%20Peasant%20on%20Aged%20Parchment.png?raw=true",
       "prompt": "Create a fantasy monster portrait based on the following description:\n\nCorrupted Villager\nMedium humanoid (human), neutral evil\nA human villager with pale, sickly skin and dark veins visible beneath the surface. Eyes are clouded white, and dark energy wisps around their form. Wears simple peasant clothing now torn and stained. Moves with jerky, unnatural motions.\n\nStyle: Hand-painted fantasy illustration, parchment background, Dungeons & Dragons bestiary style.\nLighting: Dramatic and moody, with supernatural shadows.\nFormat: Centered monster, no text, no frame, no background elements except soft parchment texture.\nResolution: High detail."
     }
   },
